@@ -75,6 +75,25 @@ Nine queries were written to cover the full analysis:
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboards/executive_overview.png)
+
+### Cohort & Retention
+![Cohort & Retention](dashboards/cohort_and_retention.png)
+
+### Growth Metrics
+![Growth Metrics](dashboards/growth_metrics.png)
+
+### Churn Predictors
+![Churn Predictors](dashboards/churn_predictors.png)
+
+### Subscriber Funnel & Retention
+![Subscriber Funnel](dashboards/subscriber_funnel_and_retention.png)
+
+---
+
 ## Dashboard (Tableau)
 
 Five dashboard pages built in Tableau Public:
